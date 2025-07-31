@@ -1,5 +1,7 @@
 # Este projeto
 /dados/
+
+# Ignora os arquivo .ipynb no Git
 *.ipynb
 
 # Mac OS-specific storage files
